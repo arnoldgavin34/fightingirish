@@ -33,7 +33,49 @@ athlete-site/
             I bring discipline, leadership, and competitive drive both on and off the field.
         </p>
     </section>
+<div class="inner  custom-image " style="background-image: url(/wp-content/uploads/2025/10/MTN-Team.jpg)">
+                        <div class="row">
+              <div class="text col-md-7 col-sm-12">
+                                <span>2025-26 Men's Tennis
+                                    Roster</span>
+                <h1> Nicholas Patrick
+                  <span class="sr-only"> Men's Tennis
+                                    Roster
+                                  </span>
+                </h1>
+                <h3></h3>
+                <hr>
+                <div class="row">
 
+                                      <div class="stats">
+                                              <div class="item">
+                          <span>Hometown</span>
+                          <strong>Coal Valley, IL</strong>
+                        </div>
+                                              <div class="item">
+                          <span>Class</span>
+                          <strong>Freshman</strong>
+                        </div>
+                                              <div class="item">
+                          <span>High School</span>
+                          <strong>Alleman</strong>
+                        </div>
+                                          </div>
+                                  </div>
+                                  <ul class="roster__social-links">
+                                          <li>
+                                                  <a href="https://www.instagram.com/nicholas._patrick/" class="instagram">
+                            <span class="sr-only">instagram</span>
+                            <div class="icon lazy entered loaded" data-bg="https://fightingirish.com/wp-content/themes/und/dist/images/instagram-icon-light.svg" data-ll-status="loaded" style="background-image: url(&quot;https://fightingirish.com/wp-content/themes/und/dist/images/instagram-icon-light.svg&quot;);"></div>
+                          </a>
+                                              </li>
+                                      </ul>
+                              </div>
+              <div class="image col-md-5 col-sm-12" title="Nicholas Patrick - Men's Tennis - Notre Dame Fighting Irish" style="background-image: url(https://fightingirish.com/imgproxy/pRzPPlrmXeLN9BC1W6v8PzoX7tssEV_rPBSFMUB-Jeg/fit/420/640/ce/0/aHR0cHM6Ly9maWdodGluZ2lyaXNoLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wOS9QYXRyaWNrLXNjYWxlZC1lMTc1Nzk0ODY5NjEzNS5qcGc.jpg)">
+                <img src="https://fightingirish.com/imgproxy/pRzPPlrmXeLN9BC1W6v8PzoX7tssEV_rPBSFMUB-Jeg/fit/420/640/ce/0/aHR0cHM6Ly9maWdodGluZ2lyaXNoLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wOS9QYXRyaWNrLXNjYWxlZC1lMTc1Nzk0ODY5NjEzNS5qcGc.jpg" title="Nicholas Patrick - Men's Tennis - Notre Dame Fighting Irish" alt="Nicholas Patrick - Men's Tennis - Notre Dame Fighting Irish" class="sr-only" data-cmp-info="10">
+                              </div>
+            </div>
+          </div>
     <!-- Stats Section -->
     <section id="stats">
         <h2>Athletic Stats</h2>
